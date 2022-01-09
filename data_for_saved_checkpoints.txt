@@ -1,0 +1,6 @@
+The following are the test accuracies for the already saved 3 different checkpoints after they were trained.
+All of them were trained with the default values of the hyper parameters.
+
+alexnet - 71%
+densenet121 - 71%
+vgg13 - 78%
