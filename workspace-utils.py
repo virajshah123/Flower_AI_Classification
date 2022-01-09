@@ -1,7 +1,5 @@
 import signal
-
 from contextlib import contextmanager
-
 import requests
 
 
